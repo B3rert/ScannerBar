@@ -1,0 +1,14 @@
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\bin\Debug\netstandard2.0\SacanBar.deps.json
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\bin\Debug\netstandard2.0\SacanBar.dll
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\bin\Debug\netstandard2.0\ref\SacanBar.dll
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\bin\Debug\netstandard2.0\SacanBar.pdb
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\SacanBar.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\SacanBar.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\SacanBar.AssemblyInfo.cs
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\SacanBar.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\SacanBar.dll
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\ref\SacanBar.dll
+C:\Users\Andres\source\repos\SacanBar\SacanBar\SacanBar\obj\Debug\netstandard2.0\SacanBar.pdb
